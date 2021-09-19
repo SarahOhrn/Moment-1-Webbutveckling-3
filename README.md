@@ -22,18 +22,18 @@
 
 ##### Beskriv följande kommandon (vad de gör, hur de fungerar etcetera):
 
-..+git config
-..+git init
-..+git status
-..+git add
-..+git commit
-..+git push
-..+git checkout
-..+git pull
-..+git merge
-..+git fetch
-..+git log
-..+Hur går vi tillväga för att ignorera visa filer eller kataloger att indexeras med Git?
+⋅⋅+git config
+⋅⋅+git init
+⋅⋅+git status
+⋅⋅+git add
+⋅⋅+git commit
+⋅⋅+git push
+⋅⋅+git checkout
+⋅⋅+git pull
+⋅⋅+git merge
+⋅⋅+git fetch
+⋅⋅+git log
+⋅⋅+Hur går vi tillväga för att ignorera visa filer eller kataloger att indexeras med Git?
 
 #### Webbtjänst för versionshantering
 
