@@ -22,7 +22,7 @@
 
 ##### Beskriv följande kommandon (vad de gör, hur de fungerar etcetera):
 
-⋅⋅+ git config
+--+ git config
 ⋅⋅+ git init
 ⋅⋅+ git status
 ⋅⋅+ git add
